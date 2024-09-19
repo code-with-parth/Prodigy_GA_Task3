@@ -1,3 +1,3 @@
 # Prodigy_GA_Task3
 
-Text Gneration with Markov Chains
+Text Generation with Markov Chains
